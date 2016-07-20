@@ -7796,8 +7796,8 @@ Source: www.sumida.com/products/pdf/CEP125.pdf</description>
 <part name="R13" library="resistor" deviceset="R-US_" device="R0603" value="0"/>
 <part name="R14" library="resistor" deviceset="R-US_" device="R0603" value="0"/>
 <part name="U4" library="insole" deviceset="BQ29718" device=""/>
-<part name="Q1" library="insole" deviceset="CSD16301Q2" device=""/>
-<part name="Q2" library="insole" deviceset="CSD16301Q2" device=""/>
+<part name="Q1" library="insole" deviceset="CSD16301Q2" device="" value=""/>
+<part name="Q2" library="insole" deviceset="CSD16301Q2" device="" value=""/>
 <part name="R15" library="resistor" deviceset="R-US_" device="R0805" value="330"/>
 <part name="C8" library="resistor" deviceset="C-EU" device="C0805" value="0.1uF"/>
 <part name="R16" library="resistor" deviceset="R-US_" device="R0805" value="2.2k"/>
